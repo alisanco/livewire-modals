@@ -1,12 +1,12 @@
 {
-    "name": "bastinald/laravel-livewire-modals",
-    "homepage": "https://github.com/bastinald/laravel-livewire-modals",
+    "name": "alisanco/livewire-modals",
+    "homepage": "https://github.com/alisanco/livewire-modals",
     "description": "Dynamic Laravel Livewire Bootstrap modals.",
     "license": "MIT",
     "authors": [
         {
-            "name": "Kevin Dion",
-            "email": "bastinald@icloud.com",
+            "name": "Alisanco",
+            "email": "alisanco@icloud.com",
             "role": "Developer"
         }
     ],
